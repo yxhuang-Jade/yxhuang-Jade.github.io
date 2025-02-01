@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "me2.png"
   name             : "Yuxi Huang（黄钰喜）"
   pronouns         : # example: "she/her"  
   bio              : "Master Student at UESTC"
