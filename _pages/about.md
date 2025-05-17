@@ -11,4 +11,4 @@ Hi!I am a prospective Master’s student admitted to the School of Computer Scie
 
 📝 Publications
 ======
-🔥 News: DongSheng Wang, __Yuxi Huang__, Shen Gao, Yifan Wang, Chengrui Huang, Shuo Shang. Generative Next POI Recommendation with Semantic ID. __KDD 2025.__(CCF-A)
+\[🔥 News\] DongSheng Wang, __Yuxi Huang__, Shen Gao, Yifan Wang, Chengrui Huang, Shuo Shang. Generative Next POI Recommendation with Semantic ID. __KDD 2025.__(CCF-A)
